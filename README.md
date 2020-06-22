@@ -38,7 +38,7 @@ accuracy of SHAPE-directed RNA structure modeling. Biochemistry 52,
 
 Software, Installation Guide, and Help
 ---------------------------------------------------------------------
-[Installation Guide](https://webshare.oasis.unc.edu/weeksgroup/qushape/QuShape_Installation.pdf)
-[Python Source Code](https://webshare.oasis.unc.edu/weeksgroup/qushape/QuShape_v1.0.zip)
-[QuShape Tutorial](https://webshare.oasis.unc.edu/weeksgroup/qushape/QuShape_Tutorial.pdf)
-[Practice Data](https://webshare.oasis.unc.edu/weeksgroup/qushape/TPP_Practice_Data.zip)
+* [Installation Guide](https://webshare.oasis.unc.edu/weeksgroup/qushape/QuShape_Installation.pdf)
+* [Python Source Code](https://webshare.oasis.unc.edu/weeksgroup/qushape/QuShape_v1.0.zip)
+* [QuShape Tutorial](https://webshare.oasis.unc.edu/weeksgroup/qushape/QuShape_Tutorial.pdf)
+* [Practice Data](https://webshare.oasis.unc.edu/weeksgroup/qushape/TPP_Practice_Data.zip)
